@@ -1,8 +1,8 @@
-## Hello There! Sou o Otávio Augusto  👋😎
+## Hello There! Otávio Augusto 👋😎
 
-- 🔭 Cursando Análise e Desenvolvimentod e Sistemas.
-- 🌱 Focando em Desenvolvimento Web.
-- 🤔 Eu quero é aprender!
+- 🔭 Cursando Análise e Desenvolvimentod e Sistemas 👨‍💻
+- 💻 Focando em Desenvolvimento Web e Java ☕
+- 🎻 Uma Paixão pessoal por música e Leitura 📚
 
 <div>
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=Otavio088&show_icons=true&theme=transparent">
