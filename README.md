@@ -1,8 +1,8 @@
 ## Hello There! Otávio Augusto 👋😎
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas 👨‍💻
-- 💻 Focando em Desenvolvimento Back-end ☕
-- 🎻 Uma Paixão Pessoal por Música e Leitura 📚
+- Análise e Desenvolvimento de Sistemas 👨‍💻🔭
+- Focando em Desenvolvimento Back-end ☕💻
+- Uma Paixão Pessoal por Música e Leitura 🎹📚
 
 <div>
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=Otavio088&show_icons=true&theme=transparent">
