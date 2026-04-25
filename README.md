@@ -12,10 +12,15 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=Otavio088&show_icons=true&theme=transparent">
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio088&layout=compact&theme=transparent">
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <img align="center" title="NodeJS" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
